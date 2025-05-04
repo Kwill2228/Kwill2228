@@ -1,4 +1,4 @@
-# Hi, I'm K. Williams – Data-Informed Advocate for Innovation & Impact
+# Hi, I'm Ke'A Williams (KEE-AY) – Data-Informed Advocate for Innovation & Impact
 
 Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, customer service, and business innovation to drive data-informed solutions and social impact.
 
