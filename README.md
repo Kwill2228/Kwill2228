@@ -4,8 +4,8 @@ Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, 
 
 - **Web Portfolio:** [www.makeanimpacts.com](http://www.makeanimpacts.com)
 - **Resume:** [View Resume PDF](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/K.Williams_Resume_2025.pdf)
-- **Email:** keanniwilliams@gmail.com
-- **Currently:** Junior Business Data Analyst @ TripleTen | Health Insurance Agent @ TeleTech
+- **Email:** kwilliams.makeanimpact@outlook.com
+- **Currently:** BI Data Analyst @ TripleTen | Financial Planning Consultant @KBCV
 
 ---
 ### **What I Do**
