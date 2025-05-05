@@ -1,4 +1,4 @@
-# Hi, I'm Ke'A Williams (KEE-AY) – Data-Informed Advocate for Innovation & Impact
+# Hi, I'm Ke'A Williams (KEE-AY) – Data-Informed Advocate for Innovation & Impact 📊
 
 Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, customer service, and business innovation to drive data-informed solutions and social impact.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, 
 - **Currently:** BI Data Analyst @ TripleTen | Financial Planning Consultant @KBCV
 
 ---
-### **What I Do**
+### **What I Do**🧠
 - Automate CRM and client communication systems
 - Build BI dashboards to improve service delivery
 - Clean and analyze data for process and workflow optimization
@@ -16,7 +16,7 @@ Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, 
 - Advocate for improved access in healthcare and financial literacy
 
 ---
-### **Skills That Set Me Apart**
+### **Skills That Set Me Apart**🎯
 - Analytical Thinking: Excels at breaking down multifaceted problems and uncovering actionable trends.
 - Communication: Bridges the gap between technical insights and real-world implementation through clear, strategic messaging.
 - Adaptability: Rapidly adopts new tools, from CRM systems to SQL and data visualization platforms.
@@ -44,7 +44,7 @@ Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, 
 ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white)
 
 ---
-### **Featured Repositories**
+📌### **Featured Repositories**
 - **Research-Informatics-Analytics** - Featured Published Research Analysis on variety of social advoacy iniates by adverse data insights.
 - **Data-Dashboards-PowerBI** – Dynamic dashboards for business decision-making
 - **Automation-CRM-Flows** – Zapier-based flows for client management
@@ -53,7 +53,7 @@ Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, 
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-##Some call it “Analytical Informatics”
+💡##Some call it “Analytical Informatics”
 
 ##How my background is impactful to the world of Data
 
