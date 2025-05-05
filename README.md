@@ -16,6 +16,24 @@ Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, 
 - Advocate for improved access in healthcare and financial literacy
 
 ---
+### **Skills That Set Me Apart**
+- Analytical Thinking: Excels at breaking down multifaceted problems and uncovering actionable trends.
+- Communication: Bridges the gap between technical insights and real-world implementation through clear, strategic messaging.
+- Adaptability: Rapidly adopts new tools, from CRM systems to SQL and data visualization platforms.
+- Collaboration: Works across departments to unify goals and lead solution-driven conversations.
+
+### **Sectors I've Made an Impact**
+- Business Solutions & Client Experience
+- Business Marketing Automation
+- CRM Syncing and Lead Prioritization System
+ 
+ -  ##Healthcare Informatics:
+- Impact of Stigma on Service Utilization
+- Care Coordination and Exploring Policy Implications
+- Evidence-Based Social Work Practice
+- Addressing Public Health Barriers
+
+---
 ### **Tech & Tools I Use**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
