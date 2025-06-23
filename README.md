@@ -5,7 +5,7 @@ Welcome to my GitHub! I blend 10+ years of experience in healthcare, insurance, 
 - **Web Portfolio:** [www.makeanimpacts.com](http://www.makeanimpacts.com)
 - **Resume:** [View Resume PDF](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/K.Williams_Resume_2025.pdf)
 - **Email:** kwilliams.makeanimpact@outlook.com
-- **Currently:** BI Data Analyst @ TripleTen | Financial Planning Consultant @KBCV
+- **Currently:** BI Data Analyst @ TripleTen | Long-Term Planning Consultant @KBCV
 
 ---
 ### **What I Do**🧠
